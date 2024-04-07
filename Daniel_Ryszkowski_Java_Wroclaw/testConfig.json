@@ -1,0 +1,6 @@
+{
+  "item1": ["deliveryMethod1", "deliveryMethod2"],
+  "item2": ["deliveryMethod2", "deliveryMethod3"],
+  "item3": ["deliveryMethod1", "deliveryMethod3"],
+  "item4": ["deliveryMethod1", "deliveryMethod2"]
+}
